@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1388940850 source:c:\users\milan\dropbox\professionalamateurs\platformer\src\main.cpp
+	"include.hpp"
+
+1388940874 c:\users\milan\dropbox\professionalamateurs\platformer\src\include.hpp
+	<cstdlib>
+	<cstdio>
+	<iostream>
+
